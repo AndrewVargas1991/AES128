@@ -1,9 +1,10 @@
 '''
-Para executar o programa, instale as bibliotecas Pillow e Cryptography
+Para executar o programa, instale as bibliotecas Pillow, Cryptography e Fernet
    com os seguintes comandos no CMD:
 
 pip install pillow
 pip install cryptography
+pip install fernet
 '''
 
 from tkinter import *
